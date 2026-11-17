@@ -1,0 +1,1 @@
+import{t as e}from"./useLocale-w6uxr1aW.js";import{t}from"./RecordedDemo-DZ26RT-l.js";var n=e();function r(){return(0,n.jsx)(t,{standalone:!0})}export{r as RequestDemoPage};

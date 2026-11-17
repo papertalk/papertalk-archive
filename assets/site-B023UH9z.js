@@ -1,0 +1,1 @@
+var e=`https://www.youtube.com/watch?v=3kOdSKeSc2k`;export{e as t};

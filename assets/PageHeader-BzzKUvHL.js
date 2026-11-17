@@ -1,0 +1,1 @@
+import{r as e,t}from"./useLocale-w6uxr1aW.js";var n=t();function r({labelKey:t,titleKey:r,descriptionKey:i,children:a}){let{t:o}=e();return(0,n.jsxs)(`header`,{className:`page-header`,children:[(0,n.jsx)(`span`,{className:`section-label`,children:o(t)}),(0,n.jsx)(`h1`,{children:o(r)}),(0,n.jsx)(`p`,{children:o(i)}),a]})}export{r as t};

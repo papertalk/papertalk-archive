@@ -1,0 +1,1 @@
+import{t as e}from"./useLocale-w6uxr1aW.js";import{t}from"./index-BvvNCssU.js";var n=e();function r(){return(0,n.jsx)(t,{kind:`terms`})}export{r as TermsPage};
